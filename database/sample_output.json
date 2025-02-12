@@ -1,0 +1,8 @@
+{
+    "text": "Invoice No: 12345\nDate: 2024-02-12\nTotal: $450.00",
+    "extracted_fields": {
+        "invoice_number": "12345",
+        "date": "2024-02-12",
+        "total_amount": "$450.00"
+    }
+}
